@@ -15,8 +15,8 @@
 }
 
 .heroDetails {
-  position: absolute;
-  background: rgba(89, 89, 90, 0.7);
+  position: relative;
+  background: rgba(9, 9, 19, 0.7);
   left: 50%;
   bottom: 0;
   transform: translate(-50%, 0);
