@@ -1,5 +1,5 @@
 @font-face {
-  font-family: "Times New Roman", serif;
+  font-family: "Playfair Display", serif;
   font-weight: 400;
   font-style: normal;
   src: url("/avenir-400.woff2") format("woff2");
@@ -7,7 +7,7 @@
 }
 
 body {
-  font-family: "Times New Roman", sans-serif;
+  font-family: "Playfair Display", sans-serif;
   font-size: 1em;
   line-height: 1.65;
   color: #373F49;
